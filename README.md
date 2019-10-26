@@ -2,7 +2,7 @@
 
 Essa biblioteca permite a codificação e decodificação dos dados das sessões PHP.
 
-[![Build Status](https://img.shields.io/travis/feeh27/session-encoder-decoder?branch=master)](https://travis-ci.org/feeh27/session-encoder-decoder)
+[![Build Status](https://scrutinizer-ci.com/g/feeh27/session-encoder-decoder/badges/build.png?b=master)](https://scrutinizer-ci.com/g/feeh27/session-encoder-decoder/build-status/master)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/feeh27/session-encoder-decoder/master)](https://scrutinizer-ci.com/g/feeh27/session-encoder-decoder/?branch=master)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/feeh27/session-encoder-decoder/master)](https://scrutinizer-ci.com/g/feeh27/session-encoder-decoder/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/feeh27/session-encoder-decoder/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
